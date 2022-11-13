@@ -85,7 +85,6 @@ legend {
 
 .match p {
 	background-color: #E0E0FF;
-	clear: left;
 }
 
 .match ul {
@@ -104,3 +103,23 @@ ul li a img {
 #w3c {
 	clear: both;
 }
+
+#age {
+	width: 8%;
+}
+
+#p_type {
+	width: 12%;
+}
+
+#from, #to {
+	width: 8%;
+}
+
+#no_match {
+	font-weight: bold;
+	color: red;
+}
+
+
+
